@@ -1,2 +1,6 @@
 print("Hola mundo desde Python")
 print("Esta es una prueba de código en Python")
+print("Esta linea es desde main")
+print("Esta linea es desde main1")
+print("Esta linea es desde main2")
+print("Esta linea es desde main3")
